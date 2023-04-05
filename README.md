@@ -1,3 +1,3 @@
-## Jianming's User Page
-# Favorite Programming Language
+# Jianming's User Page
+## Favorite Programming Language
 - Python 
