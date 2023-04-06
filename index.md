@@ -1,4 +1,4 @@
-## Welcome to Jianming Geng's Homepage :')
+## Welcome to Jianming Geng's Homepage!
 
 ![My profile pic if you have not seen it already on my LinkedIn](asset/profile_pic.png)
 
@@ -17,14 +17,14 @@ I am a fourth year undergraduate student majoring in Applied Math and Data Scien
 
 #### Skills To Show Off
 **unordered lists**
-    - unorder list 1
-    - unorder list 2
-    - unorder list 3
+- unorder list 1
+- unorder list 2
+- unorder list 3
 
 **ordered lists**
-    1. order 1
-    2. order 2
-    3. order 3
+1. order 1
+2. order 2
+3. order 3
 
 #### Goal of My Undergrad Study
 - [x] Get first place on any Kaggle
