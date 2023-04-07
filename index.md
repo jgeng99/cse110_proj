@@ -31,8 +31,8 @@ I am a fourth year undergraduate student majoring in Applied Math and Data Scien
 - [ ] Become a master of coding
 - [ ] Learn as much as I can :tada:
 
-#### The Most Wwesome md File
-[Back to Main Page](README.md)
+#### The Most Awesome md File
+[Let's goooooo](README.md)
 
 
 
