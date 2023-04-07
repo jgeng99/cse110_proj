@@ -12,19 +12,19 @@ I am a fourth year undergraduate student majoring in Applied Math and Data Scien
 #### Favorite Line of Code
 `ls -l`
 
-#### Best Md File
-[This is the other md file that I really like](README.md)
+#### Recursion (Kind of)
+[Back to Main Page](README.md)
 
-#### Skills To Show Off
-**unordered lists**
-- unorder list 1
-- unorder list 2
-- unorder list 3
+#### About My Life
+***My Hobbies***
+- Play Tennis
+- Texas Holdem
+- Sleep
 
-**ordered lists**
-1. order 1
-2. order 2
-3. order 3
+***Favorite Tennis Player***
+1. Nadal
+2. Danny Medvedev
+3. Djokovic
 
 #### Goal of My Undergrad Study
 - [x] Get first place on any Kaggle
