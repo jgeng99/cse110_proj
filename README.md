@@ -1,3 +1,2 @@
 # Jianming's User Page
-## Link to my Website
-[click me](https://jgeng99.github.io/cse110_proj/) 
+You will not find anything here but it's a good try.
